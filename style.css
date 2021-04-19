@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    animation: key 30s infinite;
+}
+@keyframes key{
+    0%{
+        background: rgb(230, 133, 7);
+    }
+    3%{
+        background: rgb(206, 0, 0);
+    }
+    5%{
+        background: rgb(0, 215, 235);
+    }
+    7%{
+        background: rgb(51, 255, 0);
+    }
+    10%{
+        background: goldenrod;
+    }
+    13%{
+        background: black;
+    }
+    15%{
+        background: rgb(251, 227, 8);
+    }
+    17%{
+        background: saddlebrown;
+    }
+    20%{
+        background: rgb(255, 102, 0);
+    }
+    23%{
+        background: rgb(100, 0, 0);
+    }
+    25%{
+        background: wheat;
+    }
+    27%{
+        background: rgb(105, 11, 11);
+    }
+    30%{
+        background: rgb(26, 172, 87);
+    }
+    33%{
+        background: rgb(72, 6, 78);
+    }
+    35%{
+        background: rgb(2, 45, 53);
+    }
+    37%{
+        background: rgb(255, 1, 1);
+    }
+    40%{
+        background: rgb(145, 79, 79);
+    }
+    43%{
+        background: rgb(46, 249, 0);
+    }
+    45%{
+        background: rgb(255, 0, 0);
+    }
+    47%{
+        background: rgb(255, 0, 255);
+    }
+    50%{
+        background: rgb(241, 4, 4);
+    }
+    53%{
+        background: rgb(0, 110, 255);
+    }
+    55%{
+        background: rgb(117, 86, 86);
+    }
+    60%{
+        background: rgb(0, 254, 25);
+    }
+    70%{
+        background: black;
+    }
+    80%{
+        background: rgb(56, 43, 43);
+    }
+    100%{
+        background: rgb(0, 34, 229);
+    }
+}
